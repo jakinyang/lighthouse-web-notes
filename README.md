@@ -10,4 +10,5 @@ By [Jae Chun Yang](https://github.com/jakinyang).
 ---
 ## Table of Contents
 ---
-*
+* [Week 1](/week_1/)
+  * [Day 1](/week_1/day_1/)
